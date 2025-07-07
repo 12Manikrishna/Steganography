@@ -61,7 +61,3 @@ steganography-app/
 └── README.md  
 👨‍💻 Author
 Manikrishna V Gaonkar
-
-GitHub
-
-LinkedIn
